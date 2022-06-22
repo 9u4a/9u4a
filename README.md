@@ -17,7 +17,7 @@
 </div>
 
 ## Github
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jsnotepad&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=#62E1F3&text_color=#0623FB&icon_color=FFFFFF"/>  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnotepad&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=#62E1F3&text_color=#0623FB&icon_color=#0623FB"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=9u4a&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=#62E1F3&text_color=#0623FB&icon_color=FFFFFF"/>  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9u4a&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=#62E1F3&text_color=#0623FB&icon_color=#0623FB"/>
 
 
